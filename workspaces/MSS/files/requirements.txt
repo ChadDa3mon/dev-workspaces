@@ -1,0 +1,11 @@
+paramiko
+yamllint
+ansible-lint==5.4.0
+futures
+urllib3
+xmltodict
+requests
+pywinrm
+jmespath
+ruamel.yaml
+redbaron
